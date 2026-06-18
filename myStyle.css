@@ -82,8 +82,10 @@ nav ul li:hover{
 
 .vision3{
     position: absolute;
-    top: 800px;
-    left: 255px;
+    top: 500px;
+    left: 2%;
+    width: 40%;
+    max-width: 500px;
 }
 
 .main-about{
