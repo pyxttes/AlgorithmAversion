@@ -65,7 +65,7 @@ nav ul li:hover{
     padding-top: 20px;
 }
 
-.intro {
+.intro{
     position: relative;
     height: 1150px;
     background-image: linear-gradient(rgb(99, 191, 216, 0.3), #ffffff00 80%);
@@ -74,7 +74,10 @@ nav ul li:hover{
 .handAi{
     position: absolute;
     top: 540px;
-    left: 860px;
+
+    right: 5%; 
+    width: 35%;
+    max-width: 450px;
 }
 
 .vision3{
